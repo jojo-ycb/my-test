@@ -1,4 +1,5 @@
 # Logs
+/ycb-test/src/views
 logs
 *.log
 npm-debug.log*
